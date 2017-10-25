@@ -1,4 +1,4 @@
-# Linear Regression, K-means clustering, Gaussian RBF #
+## A linear ranking approach to LEarning-TO-Rank(LETOR) using Linear Regression, K-means clustering, Gaussian RBF
 
 This project was implemented as part of an assignment for the course __*CSE574 : Introduction to Machine Learning*__ at _University at Buffalo, The State University of New York_ in Fall 2016. The goal of the project was to develop a Linear Regression system to perform fine grained ranking of webpages.
 
